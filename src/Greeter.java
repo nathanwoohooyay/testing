@@ -8,7 +8,7 @@ public class Greeter {
     }
 
     public String informalgreet(String name) {
-        return "What's good " + name;
+        return "What's good " + name + "?";
     }
 
     public String veryformalgreet(String name) {
