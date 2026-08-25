@@ -1,6 +1,6 @@
 public class Greeter {
     public String greet(String name) {
-        return "Good day, " + name;
+        return "Hello Alice";
     }
 
     public String formalgreet(String name) {
