@@ -14,5 +14,9 @@ public class Greeter {
     public String veryformalgreet(String name) {
         return "A very very good day, " + name;
     }
+
+    public String veryinformalgreet(String name) {
+        return "Sup " + name;;
+    }
     
 }
