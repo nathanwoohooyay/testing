@@ -15,6 +15,10 @@ public class Greeter {
         return "A very very good day, " + name;
     }
 
+    public String veryinformalgreet(String name) {
+        return "Sup " + name;
+    }
+
     public String goodbye(String name) {
         return "Goodbye, " + name;
     }
